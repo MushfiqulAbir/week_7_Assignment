@@ -1,0 +1,11 @@
+Advantages:
+    1. Reduce data duplication
+    2. Grups data logically
+    3. Flexible databse design
+    4. Higher database security
+    5. Better execution 
+
+Disadvantages:
+    1. Slows database performances
+    2. Requires detailed analysis
+    3. Requires detailed design
